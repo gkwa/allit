@@ -1,0 +1,14 @@
+* allit
+
+** summary
+
+This is a description of project allit.
+
+** usage
+
+Example:
+#+begin_example
+make test
+./allit --help
+./allit --log-level=debug
+#+end_example
